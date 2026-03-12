@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;DevOps+Engineer+%7C+Cloud+Engineer;Automating+and+Scaling+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=DevOps+Engineer+%7C+Cloud+Engineer;Automating+and+Scaling+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
@@ -105,12 +105,16 @@ Bringing an **end-to-end view** of production systems through:
 ## 📈 Language Statistics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25kamalesh&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jinja,shell" alt="Top Languages" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=25kamalesh&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=25kamalesh&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=25kamalesh&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=25kamalesh&theme=tokyonight&exclude=HTML,Jupyter%20Notebook,HCL" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=25kamalesh&theme=tokyonight&exclude=HTML,HCL,Jupyter%20Notebook" alt="Most Commit Language" />
 </div>
 
 <div align="center">
